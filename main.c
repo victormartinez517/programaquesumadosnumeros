@@ -14,6 +14,6 @@ int main(int argc, char *argv[]) {
 
   scanf ("%d",&dos);
 
-  printf ("Resultado: %d.\n",uno-dos);
+  printf ("Resultado: %d.\n",uno+dos);
 	return 0;
 }
